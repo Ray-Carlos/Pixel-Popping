@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floating
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - BackGround
+  - Box
+  - GrabbedBox
+  - Grid
+  - FillDetect
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1914018061
+    locked: 0
+  - name: FillDetection
+    uniqueID: 3066421397
+    locked: 0
+  - name: Box
+    uniqueID: 1532873047
+    locked: 0
+  - name: Player
+    uniqueID: 976844733
+    locked: 0
+  - name: Ground
+    uniqueID: 425700991
+    locked: 0
